@@ -1,0 +1,2 @@
+print("hello world.")
+print("Saya Ilham, baru belajar Python.")
